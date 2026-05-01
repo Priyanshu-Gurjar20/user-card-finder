@@ -8,7 +8,7 @@ A clean and interactive **User Search App** that displays stylish profile cards 
 
 ## 🌐 Live Demo
 
-👉 https://user-card-finder-demo.vercel.app/
+👉 https://priyanshu-gurjar20.github.io/user-card-finder/
 
 ---
 
